@@ -13,7 +13,7 @@ Aquí explicaré cosas que servirán para la prueba[^2].
  ### Lista de tareas 
 - [x] hacer un repositorio
 - [ ] llenar el visual code
-- [ ] Confirmar 2do acceeso
+- [ ] Confirmar 2do acceso
 ### Lista desordenada
 - Leonor
 + Rosales
